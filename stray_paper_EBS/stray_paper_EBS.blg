@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'stray_paper_EBS.blg'
+[56] biber-darwin:315> INFO - === Thu Aug 15, 2019, 09:51:40
+[98] Biber.pm:371> INFO - Reading 'stray_paper_EBS.bcf'
+[234] Biber.pm:889> INFO - Found 54 citekeys in bib section 0
+[262] Biber.pm:4093> INFO - Processing section 0
+[289] Biber.pm:4254> INFO - Looking for bibtex format file 'references.bib' for section 0
+[296] bibtex.pm:1523> INFO - LaTeX decoding ...
+[489] bibtex.pm:1340> INFO - Found BibTeX data source 'references.bib'
+[500] Utils.pm:193> WARN - Duplicate entry key: 'madsen2018ddoutlier' in file 'references.bib', skipping ...
+[1148] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1148] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1148] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1148] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1235] bbl.pm:636> INFO - Writing 'stray_paper_EBS.bbl' with encoding 'UTF-8'
+[1262] bbl.pm:739> INFO - Output to stray_paper_EBS.bbl
+[1263] Biber.pm:110> INFO - WARNINGS: 1
